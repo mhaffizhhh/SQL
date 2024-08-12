@@ -9,5 +9,5 @@ Here I do several queries, namely:
 7. The highest total cases monthly.
 8. Percentage deaths and recovered cases by continent.
 
-[Source](https://www.kaggle.com/datasets/imdevskp/corona-virus-report).
+[Source Dataset](https://www.kaggle.com/datasets/imdevskp/corona-virus-report).
 
